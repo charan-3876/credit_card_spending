@@ -1,10 +1,6 @@
-Credit Card Spending Analysis
-
-Project Overview
-
 Welcome to the Credit Card Spending Analysis Project! This project captures my exploration of credit card transactions through SQL queries. The project delves into various aspects of spending patterns, optimization techniques, and insightful data manipulations within the realm of credit card data.
-
-
+**Credit Card Spending Analysis**
+Dataset Link: [Credit Card Spending Analysis](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)
 ### 1. **Top Spenders Analysis**
 - **Objective:** Identify and analyze the top spenders across different cities.
 
