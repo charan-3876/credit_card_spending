@@ -30,7 +30,3 @@ Dataset Link: [Credit Card Spending Analysis](https://www.kaggle.com/datasets/th
 ## Project Structure
 - **sql_scripts**: Contains SQL scripts for database creation, table setup, and execution of key queries.
 - **documentation**: Detailed documentation covering the database schema, query optimization, and explanations of key concepts used.
-
-## Technologies Used
-- SQL Server (or specify the database system used)
-
